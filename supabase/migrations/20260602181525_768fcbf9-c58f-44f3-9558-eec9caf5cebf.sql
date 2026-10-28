@@ -1,0 +1,1 @@
+DROP FUNCTION IF EXISTS public.get_current_user_roles();
